@@ -1,7 +1,7 @@
-def parrot
+def parrot (parrot)
   "Squawk!"
 
-def parrot1
+def parrot1 (parrot1)
   "Pretty bird!"
 end
 
