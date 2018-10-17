@@ -5,5 +5,5 @@ def parrot1
   "Pretty bird!"
 end
 
-puts "The parrot says #{parrot}."
-puts "The parrot says #{parrot1}."
+puts parrot "The parrot says #{parrot}."
+puts parrot1 "The parrot says #{parrot1}."
